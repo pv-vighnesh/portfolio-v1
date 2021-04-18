@@ -111,6 +111,7 @@ hr {
 
 .section h1 {
     text-align: center;
+    color: var(--text-color);
 }
 
 .section-ow {
@@ -127,7 +128,7 @@ hr {
 
 .footer-text {
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 .footer .link {
