@@ -47,6 +47,12 @@ hr {
     color: #fff;
 
 }
+
+.link-active:active {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
 .no-bullet {
     list-style: none;
 }
@@ -64,7 +70,7 @@ hr {
 }
 
 .navigation .nav-brand {
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 1.2rem;
 }
 
